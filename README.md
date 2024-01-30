@@ -1,2 +1,2 @@
 # go-basic-tutorial
-Intro tutorials from go.dev
+My implementation for the intro tutorials from [go.dev](https://go.dev/doc/tutorial/).
